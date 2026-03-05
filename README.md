@@ -6,10 +6,8 @@
 
 <br />
 
-### 🏆 Solved.ac Stats
+### 🏆 Solved.ac Tier
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ed_hacker)](https://solved.ac/profile/ed_hacker)
-
-[![solved.ac profile](https://mazandi.herokuapp.com/api?handle=ed_hacker&theme=ocean)](https://solved.ac/profile/ed_hacker)
 
 ---
 
