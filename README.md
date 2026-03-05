@@ -2,19 +2,14 @@
 
 - 🎓 **Hongik University** | Computer Science & Engineering (2022.03 ~ Present)
 - 💻 Interested in **Java** and **Spring Framework**
-- 🚀 Focused on **Backend Development** & **Algorithm Solving**
+- 🚀 Focused on **Backend Development**
 
 <br />
 
-<div align="center">
-  <a href="https://solved.ac/profile/ed_hacker">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ed_hacker" alt="solved.ac tier" />
-  </a>
-  <br />
-  <a href="https://solved.ac/profile/ed_hacker">
-    <img src="https://mazandi.herokuapp.com/api?handle=ed_hacker&theme=ocean" alt="solved.ac profile" />
-  </a>
-</div>
+### 🏆 Solved.ac Stats
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ed_hacker)](https://solved.ac/profile/ed_hacker)
+
+[![solved.ac profile](https://mazandi.herokuapp.com/api?handle=ed_hacker&theme=ocean)](https://solved.ac/profile/ed_hacker)
 
 ---
 
